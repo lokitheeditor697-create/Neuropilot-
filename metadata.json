@@ -1,0 +1,10 @@
+{
+  "name": "NeuroPilot",
+  "description": "An AI-powered productivity companion that predicts roadmap risks, prioritizes work, automatically generates dynamic schedules, and optimizes task planning with schedule repairing.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
