@@ -24,6 +24,12 @@ When stress indicators surpass threshold levels, our Autonomic Repair Engine tri
 ### III. Neural Co-Processor Advisor
 An intelligent chatbot co-processor powered by advanced LLM memory context. It serves as an on-demand strategic partner, providing developer-first stress mitigations, code prioritization advice, and bio-break reminders.
 
+## ✨ Key Features Summarized
+* **🧠 Predictive Sentry Radar:** Aggregates focus metrics and predicts deadline slips using Monte-Carlo algorithms.
+* **📅 Gemini Autonomic Schedule Repair:** Automatically reschedules tasks, clears collisions, and creates deep-work blocks when high stress is detected.
+* **🤖 Neural Co-Processor Advisor:** An on-demand chatbot providing stress mitigation strategies and code prioritization.
+* **📊 Biometric Simulation Engine:** Real-time telemetry dashboard to trigger warning states and test auto-repair scheduling.
+
 ## 3. Advanced Architecture Overview
 NeuroPilot's tech stack is engineered for low-latency, responsive human-in-the-loop interaction:
 
