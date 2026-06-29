@@ -253,7 +253,7 @@ export default function ScheduleGenerator({ scheduleItems, onGenerateNewSchedule
       {/* Title */}
       <div className="flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
         <div>
-          <h1 className="text-3xl font-extrabold tracking-tight text-white flex items-center space-x-2">
+          <h1 className="text-3xl font-extrabold tracking-tight text-white flex items-center space-x-2 font-display">
             <Calendar className="w-8 h-8 text-blue-500" />
             <span>Dynamic Scheduler & Repair</span>
           </h1>

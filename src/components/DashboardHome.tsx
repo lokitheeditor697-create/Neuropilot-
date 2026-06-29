@@ -189,7 +189,7 @@ export default function DashboardHome({ tasks, onToggleTask, scheduleItems, user
       {/* Dynamic Header */}
       <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center bg-[#1E293B]/40 p-6 rounded-2xl border border-slate-850/50 gap-4">
         <div>
-          <h1 className="text-3xl font-extrabold text-white tracking-tight flex items-center gap-3">
+          <h1 className="text-3xl font-extrabold text-white tracking-tight flex items-center gap-3 font-display">
             <NeuroPilotLogo className="w-10 h-10" iconClassName="w-5 h-5" />
             <span>Welcome, {user?.name || "Loki Editor"}</span>
             <span className="text-xl">🚀</span>

@@ -202,7 +202,7 @@ export default function LandingPage({ onGetStarted, onLogin }: LandingPageProps)
             initial={{ opacity: 0, y: 25 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, delay: 0.1 }}
-            className="text-4xl sm:text-6xl lg:text-8xl font-black tracking-tight text-white mb-6 leading-[1.05]"
+            className="text-4xl sm:text-6xl lg:text-8xl font-black tracking-tight text-white mb-6 leading-[1.05] font-display"
           >
             Predict Delays.<br />
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-cyan-400 to-indigo-400">
@@ -635,7 +635,7 @@ export default function LandingPage({ onGetStarted, onLogin }: LandingPageProps)
               className="space-y-6"
             >
               <span className="text-[10px] font-black tracking-[0.25em] text-cyan-400 uppercase font-mono">PREVENT DELAY SHRIEKS</span>
-              <h2 className="text-3xl sm:text-5xl font-black text-white tracking-tight leading-tight">
+              <h2 className="text-3xl sm:text-5xl font-black text-white tracking-tight leading-tight font-display">
                 Predict Risk Coefficient Before It Collapses
               </h2>
               <p className="text-slate-400 text-sm sm:text-base leading-relaxed">
@@ -1084,7 +1084,7 @@ export default function LandingPage({ onGetStarted, onLogin }: LandingPageProps)
               className="space-y-6"
             >
               <span className="text-[10px] font-black tracking-[0.25em] text-cyan-400 uppercase font-mono">COGNITIVE COMPILING</span>
-              <h2 className="text-3xl sm:text-5xl font-black text-white tracking-tight leading-tight">
+              <h2 className="text-3xl sm:text-5xl font-black text-white tracking-tight leading-tight font-display">
                 Your Sovereign Digital Productivity Twin
               </h2>
               <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
@@ -1467,7 +1467,7 @@ export default function LandingPage({ onGetStarted, onLogin }: LandingPageProps)
             <span className="uppercase tracking-[0.2em] font-black text-[9px]">Sovereign Core Activation awaits</span>
           </motion.div>
 
-          <h2 className="text-3xl sm:text-5xl lg:text-7xl font-black text-white tracking-tight leading-none mb-6">
+          <h2 className="text-3xl sm:text-5xl lg:text-7xl font-black text-white tracking-tight leading-none mb-6 font-display">
             Stop Managing Tasks.<br />
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-cyan-400 to-indigo-400">
               Start Achieving Goals.

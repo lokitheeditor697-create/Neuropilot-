@@ -79,7 +79,7 @@ export default function HabitsTracker({ habits, onAddHabit, onUpdateHabit, onTog
     <div className="space-y-8 font-sans">
       {/* Title */}
       <div>
-        <h1 className="text-3xl font-extrabold tracking-tight text-white">Neural Habits Tracker</h1>
+        <h1 className="text-3xl font-extrabold tracking-tight text-white font-display">Neural Habits Tracker</h1>
         <p className="text-slate-400 text-sm mt-1">
           Lock in essential daily habits, check in routines, and monitor consistency streak stability.
         </p>

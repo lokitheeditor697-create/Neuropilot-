@@ -132,7 +132,7 @@ export default function TaskPlanner({ tasks, onAddTask, onUpdateTask, onDeleteTa
     <div className="space-y-8">
       {/* Overview Head */}
       <div>
-        <h1 className="text-3xl font-extrabold tracking-tight text-white">AI Prioritization Module</h1>
+        <h1 className="text-3xl font-extrabold tracking-tight text-white font-display">AI Prioritization Module</h1>
         <p className="text-slate-400 text-sm mt-1">
           Add comprehensive tasks and run server-side prioritize vectors to build ideal schedules.
         </p>

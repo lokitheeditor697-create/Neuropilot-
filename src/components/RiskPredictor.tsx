@@ -79,7 +79,7 @@ export default function RiskPredictor({ tasks, onNavigateToTab, simulationState 
       {/* Upper info */}
       <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4">
         <div>
-          <h1 className="text-3xl font-extrabold tracking-tight text-white">Deadline Risk Predictor</h1>
+          <h1 className="text-3xl font-extrabold tracking-tight text-white font-display">Deadline Risk Predictor</h1>
           <p className="text-slate-400 text-sm mt-1">
             Generative cognitive forecasting measuring estimate buffers against remaining lock hours.
           </p>

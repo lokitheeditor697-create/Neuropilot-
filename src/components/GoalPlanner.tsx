@@ -157,7 +157,7 @@ export default function GoalPlanner({ goals, onAddGoal, onUpdateGoal, onDeleteGo
     <div className="space-y-8">
       {/* Title */}
       <div>
-        <h1 className="text-3xl font-extrabold tracking-tight text-white">AI Goal Planner</h1>
+        <h1 className="text-3xl font-extrabold tracking-tight text-white font-display">AI Goal Planner</h1>
         <p className="text-slate-400 text-sm mt-1">
           Plan long-term metrics and automatically generate broken-down 6-stage roadmaps using Autonomic Coprocessor.
         </p>

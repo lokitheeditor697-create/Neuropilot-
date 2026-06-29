@@ -170,7 +170,7 @@ export default function SettingsView({ user, onUpdateProfile, onLogout, tasks, g
     <div className="space-y-8 font-sans max-w-4xl">
       {/* Title */}
       <div>
-        <h1 className="text-3xl font-extrabold tracking-tight text-white">System Settings</h1>
+        <h1 className="text-3xl font-extrabold tracking-tight text-white font-display">System Settings</h1>
         <p className="text-slate-400 text-sm mt-1">
           Configure profile descriptors, daily focus parameters, notifications, and export strategic summaries.
         </p>
